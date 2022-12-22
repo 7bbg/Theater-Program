@@ -1,8 +1,6 @@
 									// Part 1 - Identification / Algorithm
 /*
 Anthony Ikenna Nwafor
-Date Submitted: 10/23/2022
-Due Date: 10/21/2022
 CS204 1 - Computer Programming II
 
 Program: This program is to to display a ticket of the menu get the input from the user validate the input then perform the operation that needs to be perfromed based on what the user enter.
